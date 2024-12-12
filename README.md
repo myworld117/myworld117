@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @myworld117
-- 👀 I’m interested in C++ programming
+- 👀 I’m interested in Python, Java programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me: You can't
